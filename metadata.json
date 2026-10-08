@@ -1,0 +1,6 @@
+{
+  "name": "Campus Kavach",
+  "description": "Smart campus safety, resource intelligence, and student protection shield.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
